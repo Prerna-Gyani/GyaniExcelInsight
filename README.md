@@ -1,11 +1,12 @@
 # GyaniExcelInsight
 
+This project is done by Prerna Gyanchandani 
+
 Link: https://gyaniexcelinsight.streamlit.app/
 
 
 ---
 
-````md
 # 🤖 AI Excel Chatbot using Gemini & Streamlit
 
 ---
@@ -202,9 +203,4 @@ This project is licensed under the MIT License.
 
 Developed as part of an AI/ML project.
 
----
-
-```
-
----
 
