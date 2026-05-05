@@ -203,4 +203,6 @@ This project is licensed under the MIT License.
 
 Developed as part of an AI/ML project.
 
+Thankyou for visiting
 
+Check out more projects on: https://share.streamlit.io/user/prerna-gyani
