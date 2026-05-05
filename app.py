@@ -67,7 +67,7 @@ if not st.session_state.api_key:
     st.stop()
 
 # Load model AFTER API key is set
-model = genai.GenerativeModel("gemini-1.5-pro")
+model = genai.GenerativeModel("gemini-3-flash-preview")
 
 if selected_dataset != "No dataset":
     df = st.session_state.dataframes[selected_dataset]
